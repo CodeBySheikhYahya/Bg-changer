@@ -26,7 +26,7 @@ function App() {
             className="outline-none px-4 py-1 rounded-full text-black shadow-lg" // Tailwind styling
             style={{ backgroundColor: 'red' }} // Inline styling for red background
           >
-            Red
+            Reddd
           </button>
           {/* Button to set background color to blue */}
           <button
